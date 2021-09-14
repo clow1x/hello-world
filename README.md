@@ -9,4 +9,4 @@ today i started learning some different things about real programmming, especial
 about me:
 Nikita, 16, from Russia
 used to code on java, a bit on python, js and html
-want to learn python and became frontend or backend dev.
+want to learn python and became backend dev.
